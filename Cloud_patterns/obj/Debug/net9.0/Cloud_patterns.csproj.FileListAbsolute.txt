@@ -30,3 +30,4 @@ C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Cloud_patt
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Cloud_patterns\obj\Debug\net9.0\Cloud_pa.96FA31FC.Up2Date
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Cloud_patterns\bin\Debug\net9.0\appsettings.json
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Cloud_patterns\bin\Debug\net9.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Cloud_patterns\obj\Debug\net9.0\Cloud_patterns.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Mediator\o
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Mediator\obj\Debug\net9.0\Mediator.pdb
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Mediator\obj\Debug\net9.0\Mediator.genruntimeconfig.cache
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Mediator\obj\Debug\net9.0\ref\Mediator.dll
+C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Mediator\obj\Debug\net9.0\Mediator.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Bridge\obj
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Bridge\obj\Debug\net9.0\Bridge.pdb
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Bridge\obj\Debug\net9.0\Bridge.genruntimeconfig.cache
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Bridge\obj\Debug\net9.0\ref\Bridge.dll
+C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Bridge\obj\Debug\net9.0\Bridge.sourcelink.json

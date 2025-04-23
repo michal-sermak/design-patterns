@@ -12,3 +12,4 @@ C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Singleton\
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Singleton\obj\Debug\net9.0\Singleton.pdb
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
 C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Singleton\obj\Debug\net9.0\ref\Singleton.dll
+C:\Users\michal.sermak\OneDrive - SoftwareOne\Desktop\design patterns\Singleton\obj\Debug\net9.0\Singleton.sourcelink.json
